@@ -1,11 +1,11 @@
 {
   "name": "gapi-cjs",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A gapi-script alternative which uses commonjs module",
   "main": "index.js",
   "scripts": {
   },
-  "keywords": [],
+  "keywords": ["google","api","gapi","gapi-script","google-auth2","gapi-auth","google-sign-in","gapi-cjs"],
   "author": "sidmohanty11",
   "license": "MIT"
 }
