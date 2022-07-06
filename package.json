@@ -1,18 +1,11 @@
 {
   "name": "gapi-cjs",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A gapi-script alternative which uses commonjs module",
-  "main": "dist/index.js",
-  "files": [
-    "dist"
-  ],
+  "main": "index.js",
   "scripts": {
-    "build": "esbuild index.js --bundle --outfile=dist/index.js"
   },
   "keywords": [],
   "author": "sidmohanty11",
-  "license": "MIT",
-  "devDependencies": {
-    "esbuild": "^0.14.48"
-  }
+  "license": "MIT"
 }
