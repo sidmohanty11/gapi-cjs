@@ -1,0 +1,18 @@
+{
+  "name": "gapijs",
+  "version": "1.0.0",
+  "description": "A gapi-script alternative which uses commonjs module",
+  "main": "dist/index.js",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "esbuild index.js --bundle --outfile=dist/index.js"
+  },
+  "keywords": [],
+  "author": "sidmohanty11",
+  "license": "MIT",
+  "devDependencies": {
+    "esbuild": "^0.14.48"
+  }
+}
