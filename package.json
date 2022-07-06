@@ -1,5 +1,5 @@
 {
-  "name": "gapijs",
+  "name": "gapi-cjs",
   "version": "1.0.0",
   "description": "A gapi-script alternative which uses commonjs module",
   "main": "dist/index.js",
